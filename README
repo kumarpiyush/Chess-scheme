@@ -1,0 +1,3 @@
+Chess made in functional language "Racket". Enjoy both "vs Friend" and "vs Computer" gameplay 
+
+This is just source code, you'll need DrRacket to compile and run the main file, "Chess.scm"
